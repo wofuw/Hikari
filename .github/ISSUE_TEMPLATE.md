@@ -20,3 +20,10 @@ LLVM的完整日志
 有问题的Pass,试着分别打开关闭混淆的pass来找出是哪个(些)Pass的问题
 - ![#f03c15](https://placehold.it/15/ffa500/000000?text=+)**强烈建议提供**  
 目标平台的细节。例如操作系统，处理器架构等。
+
+Please Refer to the following examples on how to create a issue that I could possibly provide any sort of help:  
+请参阅下文的例子来创建有足够的信息来让我提供任何形式帮助的Issue:  
+
+- [#41](https://github.com/HikariObfuscator/Hikari/issues/41) 
+- [#56](https://github.com/HikariObfuscator/Hikari/issues/56) 
+- [#57](https://github.com/HikariObfuscator/Hikari/issues/57) 
